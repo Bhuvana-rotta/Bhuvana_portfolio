@@ -1,0 +1,5 @@
+{
+    "git.fetchOnPull": false,
+    "git.followTagsWhenSync": false,
+    "git.enableStatusBarSync": false
+}
